@@ -1,4 +1,4 @@
-(ns day1)
+(ns advent-of-code-2019.day1)
 
 (def input [95249
             126697

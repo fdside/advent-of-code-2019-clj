@@ -1,6 +1,6 @@
-(ns day1-2
+(ns advent-of-code-2019.day1-2
   (:require
-   [day1 :as d1]))
+   [advent-of-code-2019.day1 :as d1]))
 
 (def input [95249
             126697
